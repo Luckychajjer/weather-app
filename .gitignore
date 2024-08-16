@@ -1,0 +1,5 @@
+/node_modules
+/prod.config.js
+/webpack.config.js
+/src
+/package-lock.json
